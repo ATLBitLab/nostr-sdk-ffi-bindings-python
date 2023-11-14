@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+./src/nostr-sdk/__init__.py
+./src/nostr-sdk/libnostr_sdk_ffi.dylib
+./src/nostr-sdk/nostr_sdk.py
+nostr_sdk.egg-info/PKG-INFO
+nostr_sdk.egg-info/SOURCES.txt
+nostr_sdk.egg-info/dependency_links.txt
+nostr_sdk.egg-info/not-zip-safe
+nostr_sdk.egg-info/top_level.txt
